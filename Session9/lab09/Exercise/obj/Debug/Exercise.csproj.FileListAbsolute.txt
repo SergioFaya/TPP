@@ -1,0 +1,17 @@
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab09\Exercise\bin\Debug\Exercise.exe.config
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab09\Exercise\bin\Debug\Exercise.exe
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab09\Exercise\bin\Debug\Exercise.pdb
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab09\Exercise\obj\Debug\Exercise.exe
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab09\Exercise\obj\Debug\Exercise.pdb
+C:\Users\Raúl\Desktop\PTP10\lab09\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\Raúl\Desktop\PTP10\lab09\Exercise\obj\Debug\Exercise.exe
+C:\Users\Raúl\Desktop\PTP10\lab09\Exercise\obj\Debug\Exercise.pdb
+C:\Users\Raúl\Desktop\PTP10\lab09\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Raúl\Desktop\PTP10\lab09\Exercise\bin\Debug\Exercise.exe
+C:\Users\Raúl\Desktop\PTP10\lab09\Exercise\bin\Debug\Exercise.pdb
+C:\Users\Raúl\Desktop\PTP10\lab09material\lab09\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\Raúl\Desktop\PTP10\lab09material\lab09\Exercise\obj\Debug\Exercise.exe
+C:\Users\Raúl\Desktop\PTP10\lab09material\lab09\Exercise\obj\Debug\Exercise.pdb
+C:\Users\Raúl\Desktop\PTP10\lab09material\lab09\Exercise\bin\Debug\Exercise.exe
+C:\Users\Raúl\Desktop\PTP10\lab09material\lab09\Exercise\bin\Debug\Exercise.pdb
+C:\Users\Raúl\Desktop\PTP10\lab09material\lab09\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache

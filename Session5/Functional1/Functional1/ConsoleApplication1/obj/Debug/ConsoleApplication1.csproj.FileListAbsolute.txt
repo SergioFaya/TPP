@@ -1,0 +1,7 @@
+C:\Users\UO251005\Desktop\TPP\Session5\Functional1\Functional1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session5\Functional1\Functional1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session5\Functional1\Functional1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session5\Functional1\Functional1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session5\Functional1\Functional1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session5\Functional1\Functional1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session5\Functional1\Functional1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

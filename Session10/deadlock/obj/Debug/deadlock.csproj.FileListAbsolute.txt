@@ -1,0 +1,18 @@
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab10\deadlock\bin\Debug\deadlock.exe.config
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab10\deadlock\bin\Debug\deadlock.exe
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab10\deadlock\bin\Debug\deadlock.pdb
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab10\deadlock\obj\Debug\deadlock.csprojResolveAssemblyReference.cache
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab10\deadlock\obj\Debug\deadlock.exe
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab10\deadlock\obj\Debug\deadlock.pdb
+C:\Users\Raúl\Desktop\PTP11\lab10\deadlock\bin\Debug\deadlock.exe.config
+C:\Users\Raúl\Desktop\PTP11\lab10\deadlock\obj\Debug\deadlock.exe
+C:\Users\Raúl\Desktop\PTP11\lab10\deadlock\obj\Debug\deadlock.pdb
+C:\Users\Raúl\Desktop\PTP11\lab10\deadlock\bin\Debug\deadlock.exe
+C:\Users\Raúl\Desktop\PTP11\lab10\deadlock\bin\Debug\deadlock.pdb
+C:\Users\Raúl\Desktop\PTP11\lab10\deadlock\obj\Debug\deadlock.csprojResolveAssemblyReference.cache
+C:\Users\UO251005\Desktop\TPP\Session10\deadlock\bin\Debug\deadlock.exe.config
+C:\Users\UO251005\Desktop\TPP\Session10\deadlock\obj\Debug\deadlock.exe
+C:\Users\UO251005\Desktop\TPP\Session10\deadlock\obj\Debug\deadlock.pdb
+C:\Users\UO251005\Desktop\TPP\Session10\deadlock\bin\Debug\deadlock.exe
+C:\Users\UO251005\Desktop\TPP\Session10\deadlock\bin\Debug\deadlock.pdb
+C:\Users\UO251005\Desktop\TPP\Session10\deadlock\obj\Debug\deadlock.csprojResolveAssemblyReference.cache

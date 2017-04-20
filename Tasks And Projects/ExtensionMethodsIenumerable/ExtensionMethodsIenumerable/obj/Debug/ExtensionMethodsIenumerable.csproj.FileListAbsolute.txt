@@ -1,0 +1,6 @@
+C:\Users\Sergio\Desktop\ExtensionMethodsIenumerable\ExtensionMethodsIenumerable\bin\Debug\ExtensionMethodsIenumerable.exe.config
+C:\Users\Sergio\Desktop\ExtensionMethodsIenumerable\ExtensionMethodsIenumerable\bin\Debug\ExtensionMethodsIenumerable.exe
+C:\Users\Sergio\Desktop\ExtensionMethodsIenumerable\ExtensionMethodsIenumerable\bin\Debug\ExtensionMethodsIenumerable.pdb
+C:\Users\Sergio\Desktop\ExtensionMethodsIenumerable\ExtensionMethodsIenumerable\obj\Debug\ExtensionMethodsIenumerable.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\ExtensionMethodsIenumerable\ExtensionMethodsIenumerable\obj\Debug\ExtensionMethodsIenumerable.exe
+C:\Users\Sergio\Desktop\ExtensionMethodsIenumerable\ExtensionMethodsIenumerable\obj\Debug\ExtensionMethodsIenumerable.pdb

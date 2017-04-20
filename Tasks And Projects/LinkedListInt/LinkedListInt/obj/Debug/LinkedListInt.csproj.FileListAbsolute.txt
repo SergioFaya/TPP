@@ -1,0 +1,12 @@
+c:\users\sergio\documents\visual studio 2015\Projects\LinkedListInt\LinkedListInt\bin\Debug\LinkedListInt.exe.config
+C:\Users\Sergio\documents\visual studio 2015\Projects\LinkedListInt\LinkedListInt\obj\Debug\LinkedListInt.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\documents\visual studio 2015\Projects\LinkedListInt\LinkedListInt\bin\Debug\LinkedListInt.exe
+C:\Users\Sergio\documents\visual studio 2015\Projects\LinkedListInt\LinkedListInt\bin\Debug\LinkedListInt.pdb
+C:\Users\Sergio\documents\visual studio 2015\Projects\LinkedListInt\LinkedListInt\obj\Debug\LinkedListInt.exe
+C:\Users\Sergio\documents\visual studio 2015\Projects\LinkedListInt\LinkedListInt\obj\Debug\LinkedListInt.pdb
+C:\Users\UO251005\Desktop\TPP git\TPP\Tasks And Projects\LinkedListInt\LinkedListInt\bin\Debug\LinkedListInt.exe.config
+C:\Users\UO251005\Desktop\TPP git\TPP\Tasks And Projects\LinkedListInt\LinkedListInt\bin\Debug\LinkedListInt.exe
+C:\Users\UO251005\Desktop\TPP git\TPP\Tasks And Projects\LinkedListInt\LinkedListInt\bin\Debug\LinkedListInt.pdb
+C:\Users\UO251005\Desktop\TPP git\TPP\Tasks And Projects\LinkedListInt\LinkedListInt\obj\Debug\LinkedListInt.csprojResolveAssemblyReference.cache
+C:\Users\UO251005\Desktop\TPP git\TPP\Tasks And Projects\LinkedListInt\LinkedListInt\obj\Debug\LinkedListInt.exe
+C:\Users\UO251005\Desktop\TPP git\TPP\Tasks And Projects\LinkedListInt\LinkedListInt\obj\Debug\LinkedListInt.pdb

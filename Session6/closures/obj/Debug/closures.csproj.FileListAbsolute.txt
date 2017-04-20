@@ -1,0 +1,18 @@
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\closures\bin\Debug\closures.exe.config
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\closures\bin\Debug\closures.exe
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\closures\bin\Debug\closures.pdb
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\closures\obj\Debug\closures.csprojResolveAssemblyReference.cache
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\closures\obj\Debug\closures.exe
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\closures\obj\Debug\closures.pdb
+C:\Users\Raúl\Desktop\PTP6\ptp6examples\closures\bin\Debug\closures.exe.config
+C:\Users\Raúl\Desktop\PTP6\ptp6examples\closures\obj\Debug\closures.exe
+C:\Users\Raúl\Desktop\PTP6\ptp6examples\closures\obj\Debug\closures.pdb
+C:\Users\Raúl\Desktop\PTP6\ptp6examples\closures\bin\Debug\closures.exe
+C:\Users\Raúl\Desktop\PTP6\ptp6examples\closures\bin\Debug\closures.pdb
+C:\Users\Raúl\Desktop\PTP6\ptp6examples\closures\obj\Debug\closures.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\closures\bin\Debug\closures.exe.config
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\closures\obj\Debug\closures.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\closures\obj\Debug\closures.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\closures\bin\Debug\closures.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\closures\bin\Debug\closures.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\closures\obj\Debug\closures.csprojResolveAssemblyReference.cache

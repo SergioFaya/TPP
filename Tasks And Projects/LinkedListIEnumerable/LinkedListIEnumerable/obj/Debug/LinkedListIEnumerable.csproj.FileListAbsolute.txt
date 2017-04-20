@@ -1,0 +1,2 @@
+C:\Users\UO251005\Desktop\TPP git\TPP\Tasks And Projects\LinkedListIEnumerable\LinkedListIEnumerable\bin\Debug\LinkedListIEnumerable.exe.config
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\LinkedListIEnumerable\LinkedListIEnumerable\bin\Debug\LinkedListIEnumerable.exe.config

@@ -1,0 +1,7 @@
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Exams\Functional Programming\MyLinkedList\OtherM\OtherM\bin\Debug\OtherM.exe.config
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Exams\Functional Programming\OtherM\OtherM\bin\Debug\OtherM.exe.config
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Exams\Functional Programming\OtherM\OtherM\bin\Debug\OtherM.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Exams\Functional Programming\OtherM\OtherM\bin\Debug\OtherM.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Exams\Functional Programming\OtherM\OtherM\obj\Debug\OtherM.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Exams\Functional Programming\OtherM\OtherM\obj\Debug\OtherM.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Exams\Functional Programming\OtherM\OtherM\obj\Debug\OtherM.pdb

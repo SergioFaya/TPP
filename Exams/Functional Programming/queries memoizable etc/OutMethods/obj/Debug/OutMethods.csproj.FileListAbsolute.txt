@@ -1,0 +1,6 @@
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\OutMethods\bin\Debug\OutMethods.exe.config
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\OutMethods\bin\Debug\OutMethods.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\OutMethods\bin\Debug\OutMethods.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\OutMethods\obj\Debug\OutMethods.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\OutMethods\obj\Debug\OutMethods.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\OutMethods\obj\Debug\OutMethods.pdb

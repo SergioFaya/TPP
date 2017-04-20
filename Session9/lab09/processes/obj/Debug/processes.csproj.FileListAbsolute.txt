@@ -1,0 +1,15 @@
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab09\processes\bin\Debug\processes.exe.config
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab09\processes\bin\Debug\processes.exe
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab09\processes\bin\Debug\processes.pdb
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab09\processes\obj\Debug\processes.csprojResolveAssemblyReference.cache
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab09\processes\obj\Debug\processes.exe
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab09\processes\obj\Debug\processes.pdb
+C:\Users\Raúl\Desktop\PTP10\lab09material\lab09\processes\bin\Debug\processes.exe.config
+C:\Users\Raúl\Desktop\PTP10\lab09material\lab09\processes\obj\Debug\processes.exe
+C:\Users\Raúl\Desktop\PTP10\lab09material\lab09\processes\obj\Debug\processes.pdb
+C:\Users\UO251005\Desktop\lab09material\lab09\processes\bin\Debug\processes.exe.config
+C:\Users\UO251005\Desktop\lab09material\lab09\processes\obj\Debug\processes.exe
+C:\Users\UO251005\Desktop\lab09material\lab09\processes\obj\Debug\processes.pdb
+C:\Users\UO251005\Desktop\lab09material\lab09\processes\bin\Debug\processes.exe
+C:\Users\UO251005\Desktop\lab09material\lab09\processes\bin\Debug\processes.pdb
+C:\Users\UO251005\Desktop\lab09material\lab09\processes\obj\Debug\processes.csprojResolveAssemblyReference.cache

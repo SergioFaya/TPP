@@ -1,0 +1,6 @@
+c:\Users\UO251005\documents\visual studio 2015\Projects\Example1\Example2\bin\Debug\Example2.exe.config
+c:\Users\UO251005\documents\visual studio 2015\Projects\Example1\Example2\bin\Debug\Example2.exe
+c:\Users\UO251005\documents\visual studio 2015\Projects\Example1\Example2\bin\Debug\Example2.pdb
+c:\Users\UO251005\documents\visual studio 2015\Projects\Example1\Example2\obj\Debug\Example2.exe
+c:\Users\UO251005\documents\visual studio 2015\Projects\Example1\Example2\obj\Debug\Example2.pdb
+c:\Users\UO251005\documents\visual studio 2015\Projects\Example1\Example2\obj\Debug\Example2.csprojResolveAssemblyReference.cache

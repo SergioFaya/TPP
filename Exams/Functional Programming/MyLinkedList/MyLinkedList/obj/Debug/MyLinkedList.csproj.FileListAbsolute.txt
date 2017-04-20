@@ -1,0 +1,12 @@
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Exams\Functional Programming\MyLinkedList\MyLinkedList\MyLinkedList\bin\Debug\MyLinkedList.exe.config
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Exams\Functional Programming\MyLinkedList\MyLinkedList\MyLinkedList\bin\Debug\MyLinkedList.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Exams\Functional Programming\MyLinkedList\MyLinkedList\MyLinkedList\bin\Debug\MyLinkedList.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Exams\Functional Programming\MyLinkedList\MyLinkedList\MyLinkedList\obj\Debug\MyLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Exams\Functional Programming\MyLinkedList\MyLinkedList\MyLinkedList\obj\Debug\MyLinkedList.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Exams\Functional Programming\MyLinkedList\MyLinkedList\MyLinkedList\obj\Debug\MyLinkedList.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Exams\Functional Programming\MyLinkedList\MyLinkedList\bin\Debug\MyLinkedList.exe.config
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Exams\Functional Programming\MyLinkedList\MyLinkedList\obj\Debug\MyLinkedList.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Exams\Functional Programming\MyLinkedList\MyLinkedList\obj\Debug\MyLinkedList.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Exams\Functional Programming\MyLinkedList\MyLinkedList\bin\Debug\MyLinkedList.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Exams\Functional Programming\MyLinkedList\MyLinkedList\bin\Debug\MyLinkedList.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Exams\Functional Programming\MyLinkedList\MyLinkedList\obj\Debug\MyLinkedList.csprojResolveAssemblyReference.cache

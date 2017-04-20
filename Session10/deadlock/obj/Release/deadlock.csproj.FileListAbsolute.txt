@@ -1,0 +1,5 @@
+C:\Users\Raúl\Desktop\PTP11\lab10\deadlock\bin\Release\deadlock.exe.config
+C:\Users\Raúl\Desktop\PTP11\lab10\deadlock\bin\Release\deadlock.exe
+C:\Users\Raúl\Desktop\PTP11\lab10\deadlock\bin\Release\deadlock.pdb
+C:\Users\Raúl\Desktop\PTP11\lab10\deadlock\obj\Release\deadlock.exe
+C:\Users\Raúl\Desktop\PTP11\lab10\deadlock\obj\Release\deadlock.pdb

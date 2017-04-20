@@ -1,0 +1,10 @@
+C:\Users\Sergio\Desktop\ExtensionMethodsIenumerable\ExtensionDefaultTests\bin\Debug\ExtensionDefaultTests.dll
+C:\Users\Sergio\Desktop\ExtensionMethodsIenumerable\ExtensionDefaultTests\bin\Debug\ExtensionDefaultTests.pdb
+C:\Users\Sergio\Desktop\ExtensionMethodsIenumerable\ExtensionDefaultTests\bin\Debug\ExtensionMethodsIenumerable.exe
+C:\Users\Sergio\Desktop\ExtensionMethodsIenumerable\ExtensionDefaultTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Sergio\Desktop\ExtensionMethodsIenumerable\ExtensionDefaultTests\bin\Debug\ExtensionMethodsIenumerable.pdb
+C:\Users\Sergio\Desktop\ExtensionMethodsIenumerable\ExtensionDefaultTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Sergio\Desktop\ExtensionMethodsIenumerable\ExtensionDefaultTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Sergio\Desktop\ExtensionMethodsIenumerable\ExtensionDefaultTests\obj\Debug\ExtensionDefaultTests.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\ExtensionMethodsIenumerable\ExtensionDefaultTests\obj\Debug\ExtensionDefaultTests.dll
+C:\Users\Sergio\Desktop\ExtensionMethodsIenumerable\ExtensionDefaultTests\obj\Debug\ExtensionDefaultTests.pdb

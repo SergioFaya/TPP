@@ -1,0 +1,9 @@
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\Collections\Collections\bin\Debug\Collections.exe.config
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\Collections\Collections\bin\Debug\Collections.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\Collections\Collections\bin\Debug\Collections.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\Collections\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\Collections\Collections\obj\Debug\Collections.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\Collections\Collections\obj\Debug\Collections.pdb
+C:\Users\Sergio\Downloads\Collections\Collections\bin\Debug\Collections.exe.config
+C:\Users\Sergio\Downloads\Collections\Collections\obj\Debug\Collections.exe
+C:\Users\Sergio\Downloads\Collections\Collections\obj\Debug\Collections.pdb

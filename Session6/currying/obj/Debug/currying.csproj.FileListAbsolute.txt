@@ -1,0 +1,11 @@
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\currying\bin\Debug\currying.exe.config
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\currying\bin\Debug\currying.exe
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\currying\bin\Debug\currying.pdb
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\currying\obj\Debug\currying.exe
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\currying\obj\Debug\currying.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\currying\bin\Debug\currying.exe.config
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\currying\obj\Debug\currying.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\currying\obj\Debug\currying.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\currying\bin\Debug\currying.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\currying\bin\Debug\currying.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\currying\obj\Debug\currying.csprojResolveAssemblyReference.cache

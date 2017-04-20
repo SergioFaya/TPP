@@ -1,0 +1,6 @@
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\LinkedListGeneric\LinkedListGeneric\bin\Debug\LinkedListGeneric.exe.config
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\LinkedListGeneric\LinkedListGeneric\bin\Debug\LinkedListGeneric.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\LinkedListGeneric\LinkedListGeneric\bin\Debug\LinkedListGeneric.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\LinkedListGeneric\LinkedListGeneric\obj\Debug\LinkedListGeneric.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\LinkedListGeneric\LinkedListGeneric\obj\Debug\LinkedListGeneric.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\LinkedListGeneric\LinkedListGeneric\obj\Debug\LinkedListGeneric.pdb

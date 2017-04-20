@@ -1,0 +1,4 @@
+c:\Users\UO251005\documents\visual studio 2015\Projects\Example1\MyDLL\bin\Debug\MyDLL.dll
+c:\Users\UO251005\documents\visual studio 2015\Projects\Example1\MyDLL\bin\Debug\MyDLL.pdb
+c:\Users\UO251005\documents\visual studio 2015\Projects\Example1\MyDLL\obj\Debug\MyDLL.dll
+c:\Users\UO251005\documents\visual studio 2015\Projects\Example1\MyDLL\obj\Debug\MyDLL.pdb

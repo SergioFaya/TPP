@@ -1,0 +1,12 @@
+C:\Users\Raúl\Desktop\PTP12\lab11\PLINQ\bin\Debug\PLINQ.exe.config
+C:\Users\Raúl\Desktop\PTP12\lab11\PLINQ\bin\Debug\PLINQ.exe
+C:\Users\Raúl\Desktop\PTP12\lab11\PLINQ\bin\Debug\PLINQ.pdb
+C:\Users\Raúl\Desktop\PTP12\lab11\PLINQ\obj\Debug\PLINQ.exe
+C:\Users\Raúl\Desktop\PTP12\lab11\PLINQ\obj\Debug\PLINQ.pdb
+C:\Users\Raúl\Desktop\PTP12\lab11\PLINQ\obj\Debug\PLINQ.csprojResolveAssemblyReference.cache
+C:\Users\Raúl\Desktop\PTP12\lab11material\lab11\PLINQ\bin\Debug\PLINQ.exe.config
+C:\Users\Raúl\Desktop\PTP12\lab11material\lab11\PLINQ\obj\Debug\PLINQ.exe
+C:\Users\Raúl\Desktop\PTP12\lab11material\lab11\PLINQ\obj\Debug\PLINQ.pdb
+C:\Users\Raúl\Desktop\PTP12\lab11material\lab11\PLINQ\bin\Debug\PLINQ.exe
+C:\Users\Raúl\Desktop\PTP12\lab11material\lab11\PLINQ\bin\Debug\PLINQ.pdb
+C:\Users\Raúl\Desktop\PTP12\lab11material\lab11\PLINQ\obj\Debug\PLINQ.csprojResolveAssemblyReference.cache

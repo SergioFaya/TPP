@@ -1,0 +1,12 @@
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\generators\bin\Debug\generators.exe.config
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\generators\bin\Debug\generators.exe
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\generators\bin\Debug\generators.pdb
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\generators\obj\Debug\generators.csprojResolveAssemblyReference.cache
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\generators\obj\Debug\generators.exe
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\generators\obj\Debug\generators.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\generators\bin\Debug\generators.exe.config
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\generators\obj\Debug\generators.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\generators\obj\Debug\generators.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\generators\bin\Debug\generators.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\generators\bin\Debug\generators.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\generators\obj\Debug\generators.csprojResolveAssemblyReference.cache

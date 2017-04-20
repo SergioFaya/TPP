@@ -1,0 +1,35 @@
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\solution\model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\solution\model\bin\Debug\model.dll
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\solution\model\bin\Debug\model.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\solution\model\obj\Debug\model.dll
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\solution\model\obj\Debug\model.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\students\model\bin\Debug\model.dll
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\students\model\bin\Debug\model.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\students\model\obj\Debug\model.dll
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\students\model\obj\Debug\model.pdb
+C:\Users\ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\students\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Raúl\Downloads\OOPLab08 - students (ENG)\model\bin\Debug\model.dll
+C:\Users\Raúl\Downloads\OOPLab08 - students (ENG)\model\bin\Debug\model.pdb
+C:\Users\Raúl\Downloads\OOPLab08 - students (ENG)\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Raúl\Downloads\OOPLab08 - students (ENG)\model\obj\Debug\model.dll
+C:\Users\Raúl\Downloads\OOPLab08 - students (ENG)\model\obj\Debug\model.pdb
+C:\Users\Raúl\Desktop\PTP8\OOPLab08 - students (ENG)\model\bin\Debug\model.dll
+C:\Users\Raúl\Desktop\PTP8\OOPLab08 - students (ENG)\model\bin\Debug\model.pdb
+C:\Users\Raúl\Desktop\PTP8\OOPLab08 - students (ENG)\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Raúl\Desktop\PTP8\OOPLab08 - students (ENG)\model\obj\Debug\model.dll
+C:\Users\Raúl\Desktop\PTP8\OOPLab08 - students (ENG)\model\obj\Debug\model.pdb
+C:\Users\Raúl\Desktop\PTP8\ptp8material\lab08\model\bin\Debug\model.dll
+C:\Users\Raúl\Desktop\PTP8\ptp8material\lab08\model\bin\Debug\model.pdb
+C:\Users\Raúl\Desktop\PTP8\ptp8material\lab08\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Raúl\Desktop\PTP8\ptp8material\lab08\model\obj\Debug\model.dll
+C:\Users\Raúl\Desktop\PTP8\ptp8material\lab08\model\obj\Debug\model.pdb
+C:\Users\UO251005\Desktop\ptp8material\lab08\model\bin\Debug\model.dll
+C:\Users\UO251005\Desktop\ptp8material\lab08\model\bin\Debug\model.pdb
+C:\Users\UO251005\Desktop\ptp8material\lab08\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\UO251005\Desktop\ptp8material\lab08\model\obj\Debug\model.dll
+C:\Users\UO251005\Desktop\ptp8material\lab08\model\obj\Debug\model.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session8\model\bin\Debug\model.dll
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session8\model\bin\Debug\model.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session8\model\obj\Debug\model.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session8\model\obj\Debug\model.dll
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session8\model\obj\Debug\model.pdb

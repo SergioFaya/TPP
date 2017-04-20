@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task.parallelism", "task.parallelism\task.parallelism.csproj", "{9DDB71FC-7D95-4B6B-9C0C-2934EF52C4B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "data.parallelism", "data.parallelism\data.parallelism.csproj", "{FBDB58AC-99D6-40B4-8B24-4BBD3AFD2370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQ", "PLINQ\PLINQ.csproj", "{A6676EF0-4173-4A32-BE9F-632F85A2E83E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DDB71FC-7D95-4B6B-9C0C-2934EF52C4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDB71FC-7D95-4B6B-9C0C-2934EF52C4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDB71FC-7D95-4B6B-9C0C-2934EF52C4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDB71FC-7D95-4B6B-9C0C-2934EF52C4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBDB58AC-99D6-40B4-8B24-4BBD3AFD2370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDB58AC-99D6-40B4-8B24-4BBD3AFD2370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDB58AC-99D6-40B4-8B24-4BBD3AFD2370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDB58AC-99D6-40B4-8B24-4BBD3AFD2370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6676EF0-4173-4A32-BE9F-632F85A2E83E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6676EF0-4173-4A32-BE9F-632F85A2E83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6676EF0-4173-4A32-BE9F-632F85A2E83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6676EF0-4173-4A32-BE9F-632F85A2E83E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

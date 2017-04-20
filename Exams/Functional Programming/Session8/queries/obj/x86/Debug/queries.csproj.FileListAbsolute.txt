@@ -1,0 +1,42 @@
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\solution\queries\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\solution\queries\bin\Debug\queries.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\solution\queries\bin\Debug\queries.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\solution\queries\bin\Debug\model.dll
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\solution\queries\bin\Debug\model.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\solution\queries\obj\x86\Debug\queries.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\solution\queries\obj\x86\Debug\queries.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\students\queries\obj\x86\Debug\queries.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\students\queries\obj\x86\Debug\queries.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\students\queries\bin\Debug\queries.exe
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\students\queries\bin\Debug\queries.pdb
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\students\queries\bin\Debug\model.dll
+C:\Users\Ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\students\queries\bin\Debug\model.pdb
+C:\Users\ortin\Documents\Dropbox\Asignaturas\Paradigmas\ingles\laboratory\functional\lab08\students\queries\obj\x86\Debug\queries.csprojResolveAssemblyReference.cache
+C:\Users\Raúl\Desktop\PTP8\OOPLab08 - students (ENG)\queries\obj\x86\Debug\queries.exe
+C:\Users\Raúl\Desktop\PTP8\OOPLab08 - students (ENG)\queries\obj\x86\Debug\queries.pdb
+C:\Users\Raúl\Desktop\PTP8\OOPLab08 - students (ENG)\queries\bin\Debug\queries.exe
+C:\Users\Raúl\Desktop\PTP8\OOPLab08 - students (ENG)\queries\bin\Debug\queries.pdb
+C:\Users\Raúl\Desktop\PTP8\OOPLab08 - students (ENG)\queries\bin\Debug\model.dll
+C:\Users\Raúl\Desktop\PTP8\OOPLab08 - students (ENG)\queries\bin\Debug\model.pdb
+C:\Users\Raúl\Desktop\PTP8\OOPLab08 - students (ENG)\queries\obj\x86\Debug\queries.csprojResolveAssemblyReference.cache
+C:\Users\Raúl\Desktop\PTP8\ptp8material\lab08\queries\obj\x86\Debug\queries.exe
+C:\Users\Raúl\Desktop\PTP8\ptp8material\lab08\queries\obj\x86\Debug\queries.pdb
+C:\Users\Raúl\Desktop\PTP8\ptp8material\lab08\queries\bin\Debug\queries.exe
+C:\Users\Raúl\Desktop\PTP8\ptp8material\lab08\queries\bin\Debug\queries.pdb
+C:\Users\Raúl\Desktop\PTP8\ptp8material\lab08\queries\bin\Debug\model.dll
+C:\Users\Raúl\Desktop\PTP8\ptp8material\lab08\queries\bin\Debug\model.pdb
+C:\Users\Raúl\Desktop\PTP8\ptp8material\lab08\queries\obj\x86\Debug\queries.csprojResolveAssemblyReference.cache
+C:\Users\UO251005\Desktop\ptp8material\lab08\queries\obj\x86\Debug\queries.exe
+C:\Users\UO251005\Desktop\ptp8material\lab08\queries\obj\x86\Debug\queries.pdb
+C:\Users\UO251005\Desktop\ptp8material\lab08\queries\bin\Debug\queries.exe
+C:\Users\UO251005\Desktop\ptp8material\lab08\queries\bin\Debug\queries.pdb
+C:\Users\UO251005\Desktop\ptp8material\lab08\queries\bin\Debug\model.dll
+C:\Users\UO251005\Desktop\ptp8material\lab08\queries\bin\Debug\model.pdb
+C:\Users\UO251005\Desktop\ptp8material\lab08\queries\obj\x86\Debug\queries.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session8\queries\obj\x86\Debug\queries.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session8\queries\obj\x86\Debug\queries.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session8\queries\bin\Debug\queries.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session8\queries\bin\Debug\queries.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session8\queries\bin\Debug\model.dll
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session8\queries\bin\Debug\model.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session8\queries\obj\x86\Debug\queries.csprojResolveAssemblyReference.cache

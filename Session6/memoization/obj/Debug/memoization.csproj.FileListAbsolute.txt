@@ -1,0 +1,9 @@
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\memoization\bin\Debug\memoization.exe.config
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\memoization\bin\Debug\memoization.exe
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\memoization\bin\Debug\memoization.pdb
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\memoization\obj\Debug\memoization.exe
+c:\users\raúl\documents\visual studio 2012\Projects\ptp6examples\memoization\obj\Debug\memoization.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\memoization\bin\Debug\memoization.exe.config
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\memoization\obj\Debug\memoization.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\memoization\obj\Debug\memoization.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session6\memoization\obj\Debug\memoization.csprojResolveAssemblyReference.cache

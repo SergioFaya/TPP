@@ -1,0 +1,8 @@
+c:\users\uo251005\documents\visual studio 2015\Projects\Example2\Example2\bin\Debug\Example2.exe.config
+c:\users\uo251005\documents\visual studio 2015\Projects\Example2\Example2\bin\Debug\Example2.exe
+c:\users\uo251005\documents\visual studio 2015\Projects\Example2\Example2\bin\Debug\Example2.pdb
+c:\users\uo251005\documents\visual studio 2015\Projects\Example2\Example2\bin\Debug\MyDLL2.dll
+c:\users\uo251005\documents\visual studio 2015\Projects\Example2\Example2\bin\Debug\MyDLL2.pdb
+c:\users\uo251005\documents\visual studio 2015\Projects\Example2\Example2\obj\Debug\Example2.csprojResolveAssemblyReference.cache
+c:\users\uo251005\documents\visual studio 2015\Projects\Example2\Example2\obj\Debug\Example2.exe
+c:\users\uo251005\documents\visual studio 2015\Projects\Example2\Example2\obj\Debug\Example2.pdb

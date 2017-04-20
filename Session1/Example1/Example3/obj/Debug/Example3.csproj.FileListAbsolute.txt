@@ -1,0 +1,11 @@
+c:\Users\UO251005\documents\visual studio 2015\Projects\Example1\Example3\bin\Debug\Example3.exe.config
+c:\Users\UO251005\documents\visual studio 2015\Projects\Example1\Example3\bin\Debug\Example3.exe
+c:\Users\UO251005\documents\visual studio 2015\Projects\Example1\Example3\bin\Debug\Example3.pdb
+c:\Users\UO251005\documents\visual studio 2015\Projects\Example1\Example3\obj\Debug\Example3.exe
+c:\Users\UO251005\documents\visual studio 2015\Projects\Example1\Example3\obj\Debug\Example3.pdb
+c:\Users\UO251005\documents\visual studio 2015\Projects\Example1\Example3\obj\Debug\Example3.csprojResolveAssemblyReference.cache
+c:\Users\UO251005\documents\visual studio 2015\Projects\Example1\Example3\bin\Debug\MyDLL.dll
+c:\Users\UO251005\documents\visual studio 2015\Projects\Example1\Example3\bin\Debug\MyDLL.pdb
+C:\Users\UO251005\Desktop\TPP git\TPP\Session1\Example1\Example3\bin\Debug\Example3.exe.config
+C:\Users\UO251005\Desktop\TPP git\TPP\Session1\Example1\Example3\obj\Debug\Example3.exe
+C:\Users\UO251005\Desktop\TPP git\TPP\Session1\Example1\Example3\obj\Debug\Example3.pdb

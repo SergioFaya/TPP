@@ -1,0 +1,6 @@
+C:\Users\Raúl\Desktop\PTP12\lab11\data.parallelism\bin\Debug\data.parallelism.exe.config
+C:\Users\Raúl\Desktop\PTP12\lab11\data.parallelism\bin\Debug\data.parallelism.exe
+C:\Users\Raúl\Desktop\PTP12\lab11\data.parallelism\bin\Debug\data.parallelism.pdb
+C:\Users\Raúl\Desktop\PTP12\lab11\data.parallelism\obj\Debug\data.parallelism.csprojResolveAssemblyReference.cache
+C:\Users\Raúl\Desktop\PTP12\lab11\data.parallelism\obj\Debug\data.parallelism.exe
+C:\Users\Raúl\Desktop\PTP12\lab11\data.parallelism\obj\Debug\data.parallelism.pdb

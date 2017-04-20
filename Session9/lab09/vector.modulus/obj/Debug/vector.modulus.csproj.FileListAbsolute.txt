@@ -1,0 +1,15 @@
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab09\vector.modulus\bin\Debug\vector.modulus.exe.config
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab09\vector.modulus\bin\Debug\vector.modulus.exe
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab09\vector.modulus\bin\Debug\vector.modulus.pdb
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab09\vector.modulus\obj\Debug\vector.modulus.csprojResolveAssemblyReference.cache
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab09\vector.modulus\obj\Debug\vector.modulus.exe
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab09\vector.modulus\obj\Debug\vector.modulus.pdb
+C:\Users\Raúl\Desktop\PTP10\lab09material\lab09\vector.modulus\bin\Debug\vector.modulus.exe.config
+C:\Users\Raúl\Desktop\PTP10\lab09material\lab09\vector.modulus\obj\Debug\vector.modulus.exe
+C:\Users\Raúl\Desktop\PTP10\lab09material\lab09\vector.modulus\obj\Debug\vector.modulus.pdb
+C:\Users\Raúl\Desktop\PTP10\lab09material\lab09\vector.modulus\bin\Debug\vector.modulus.exe
+C:\Users\Raúl\Desktop\PTP10\lab09material\lab09\vector.modulus\bin\Debug\vector.modulus.pdb
+C:\Users\Raúl\Desktop\PTP10\lab09material\lab09\vector.modulus\obj\Debug\vector.modulus.csprojResolveAssemblyReference.cache
+C:\Users\UO251005\Desktop\lab09material\lab09\vector.modulus\bin\Debug\vector.modulus.exe.config
+C:\Users\UO251005\Desktop\lab09material\lab09\vector.modulus\obj\Debug\vector.modulus.exe
+C:\Users\UO251005\Desktop\lab09material\lab09\vector.modulus\obj\Debug\vector.modulus.pdb

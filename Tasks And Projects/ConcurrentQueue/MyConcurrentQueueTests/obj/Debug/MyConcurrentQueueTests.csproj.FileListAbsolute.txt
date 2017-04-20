@@ -1,0 +1,26 @@
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\ConcurrentQueue\MyConcurrentQueueTests\bin\Debug\MyConcurrentQueueTests.dll
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\ConcurrentQueue\MyConcurrentQueueTests\bin\Debug\MyConcurrentQueueTests.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\ConcurrentQueue\MyConcurrentQueueTests\bin\Debug\ConcurrentQueue.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\ConcurrentQueue\MyConcurrentQueueTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\ConcurrentQueue\MyConcurrentQueueTests\bin\Debug\ConcurrentQueue.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\ConcurrentQueue\MyConcurrentQueueTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\ConcurrentQueue\MyConcurrentQueueTests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\ConcurrentQueue\MyConcurrentQueueTests\obj\Debug\MyConcurrentQueueTests.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\ConcurrentQueue\MyConcurrentQueueTests\obj\Debug\MyConcurrentQueueTests.dll
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\ConcurrentQueue\MyConcurrentQueueTests\obj\Debug\MyConcurrentQueueTests.pdb
+E:\ConcurrentQueue\MyConcurrentQueueTests\bin\Debug\MyConcurrentQueueTests.dll
+E:\ConcurrentQueue\MyConcurrentQueueTests\bin\Debug\MyConcurrentQueueTests.pdb
+E:\ConcurrentQueue\MyConcurrentQueueTests\bin\Debug\ConcurrentQueue.exe
+E:\ConcurrentQueue\MyConcurrentQueueTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\ConcurrentQueue\MyConcurrentQueueTests\bin\Debug\ConcurrentQueue.pdb
+E:\ConcurrentQueue\MyConcurrentQueueTests\obj\Debug\MyConcurrentQueueTests.csprojResolveAssemblyReference.cache
+E:\ConcurrentQueue\MyConcurrentQueueTests\obj\Debug\MyConcurrentQueueTests.dll
+E:\ConcurrentQueue\MyConcurrentQueueTests\obj\Debug\MyConcurrentQueueTests.pdb
+C:\Users\UO251005\Desktop\TPP\Tasks And Projects\ConcurrentQueue\MyConcurrentQueueTests\bin\Debug\MyConcurrentQueueTests.dll
+C:\Users\UO251005\Desktop\TPP\Tasks And Projects\ConcurrentQueue\MyConcurrentQueueTests\bin\Debug\MyConcurrentQueueTests.pdb
+C:\Users\UO251005\Desktop\TPP\Tasks And Projects\ConcurrentQueue\MyConcurrentQueueTests\bin\Debug\ConcurrentQueue.exe
+C:\Users\UO251005\Desktop\TPP\Tasks And Projects\ConcurrentQueue\MyConcurrentQueueTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\UO251005\Desktop\TPP\Tasks And Projects\ConcurrentQueue\MyConcurrentQueueTests\bin\Debug\ConcurrentQueue.pdb
+C:\Users\UO251005\Desktop\TPP\Tasks And Projects\ConcurrentQueue\MyConcurrentQueueTests\obj\Debug\MyConcurrentQueueTests.csprojResolveAssemblyReference.cache
+C:\Users\UO251005\Desktop\TPP\Tasks And Projects\ConcurrentQueue\MyConcurrentQueueTests\obj\Debug\MyConcurrentQueueTests.dll
+C:\Users\UO251005\Desktop\TPP\Tasks And Projects\ConcurrentQueue\MyConcurrentQueueTests\obj\Debug\MyConcurrentQueueTests.pdb

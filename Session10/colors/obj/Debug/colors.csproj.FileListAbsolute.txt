@@ -1,0 +1,21 @@
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab10\colors\bin\Debug\colors.exe.config
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab10\colors\bin\Debug\colors.exe
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab10\colors\bin\Debug\colors.pdb
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab10\colors\obj\Debug\colors.csprojResolveAssemblyReference.cache
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab10\colors\obj\Debug\colors.exe
+c:\Users\Raúl\documents\visual studio 2012\Projects\lab10\colors\obj\Debug\colors.pdb
+C:\Users\Raúl\Desktop\PTP11\lab10\colors\bin\Debug\colors.exe.config
+C:\Users\Raúl\Desktop\PTP11\lab10\colors\obj\Debug\colors.exe
+C:\Users\Raúl\Desktop\PTP11\lab10\colors\obj\Debug\colors.pdb
+C:\Users\Raúl\Desktop\PTP11\lab10\colors\bin\Debug\colors.exe
+C:\Users\Raúl\Desktop\PTP11\lab10\colors\bin\Debug\colors.pdb
+C:\Users\Raúl\Desktop\PTP11\lab10\colors\obj\Debug\colors.csprojResolveAssemblyReference.cache
+C:\Users\Raúl\Desktop\PTP11\lab10material\lab10\colors\bin\Debug\colors.exe.config
+C:\Users\Raúl\Desktop\PTP11\lab10material\lab10\colors\obj\Debug\colors.exe
+C:\Users\Raúl\Desktop\PTP11\lab10material\lab10\colors\obj\Debug\colors.pdb
+C:\Users\UO251005\Desktop\TPP\Session10\colors\bin\Debug\colors.exe.config
+C:\Users\UO251005\Desktop\TPP\Session10\colors\obj\Debug\colors.exe
+C:\Users\UO251005\Desktop\TPP\Session10\colors\obj\Debug\colors.pdb
+C:\Users\UO251005\Desktop\TPP\Session10\colors\bin\Debug\colors.exe
+C:\Users\UO251005\Desktop\TPP\Session10\colors\bin\Debug\colors.pdb
+C:\Users\UO251005\Desktop\TPP\Session10\colors\obj\Debug\colors.csprojResolveAssemblyReference.cache

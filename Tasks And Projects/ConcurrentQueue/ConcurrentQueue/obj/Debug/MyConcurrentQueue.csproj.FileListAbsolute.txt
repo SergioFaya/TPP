@@ -1,0 +1,18 @@
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\ConcurrentQueue\ConcurrentQueue\bin\Debug\ConcurrentQueue.exe.config
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\ConcurrentQueue\ConcurrentQueue\bin\Debug\ConcurrentQueue.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\ConcurrentQueue\ConcurrentQueue\bin\Debug\ConcurrentQueue.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\ConcurrentQueue\ConcurrentQueue\obj\Debug\MyConcurrentQueue.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\ConcurrentQueue\ConcurrentQueue\obj\Debug\ConcurrentQueue.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Tasks And Projects\ConcurrentQueue\ConcurrentQueue\obj\Debug\ConcurrentQueue.pdb
+E:\ConcurrentQueue\ConcurrentQueue\bin\Debug\ConcurrentQueue.exe.config
+E:\ConcurrentQueue\ConcurrentQueue\obj\Debug\ConcurrentQueue.exe
+E:\ConcurrentQueue\ConcurrentQueue\obj\Debug\ConcurrentQueue.pdb
+E:\ConcurrentQueue\ConcurrentQueue\bin\Debug\ConcurrentQueue.exe
+E:\ConcurrentQueue\ConcurrentQueue\bin\Debug\ConcurrentQueue.pdb
+E:\ConcurrentQueue\ConcurrentQueue\obj\Debug\MyConcurrentQueue.csprojResolveAssemblyReference.cache
+C:\Users\UO251005\Desktop\TPP\Tasks And Projects\ConcurrentQueue\ConcurrentQueue\bin\Debug\ConcurrentQueue.exe.config
+C:\Users\UO251005\Desktop\TPP\Tasks And Projects\ConcurrentQueue\ConcurrentQueue\obj\Debug\ConcurrentQueue.exe
+C:\Users\UO251005\Desktop\TPP\Tasks And Projects\ConcurrentQueue\ConcurrentQueue\obj\Debug\ConcurrentQueue.pdb
+C:\Users\UO251005\Desktop\TPP\Tasks And Projects\ConcurrentQueue\ConcurrentQueue\bin\Debug\ConcurrentQueue.exe
+C:\Users\UO251005\Desktop\TPP\Tasks And Projects\ConcurrentQueue\ConcurrentQueue\bin\Debug\ConcurrentQueue.pdb
+C:\Users\UO251005\Desktop\TPP\Tasks And Projects\ConcurrentQueue\ConcurrentQueue\obj\Debug\MyConcurrentQueue.csprojResolveAssemblyReference.cache
