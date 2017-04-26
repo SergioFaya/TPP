@@ -13,3 +13,9 @@ C:\Users\UO251005\Desktop\lab09material\lab09\processes\obj\Debug\processes.pdb
 C:\Users\UO251005\Desktop\lab09material\lab09\processes\bin\Debug\processes.exe
 C:\Users\UO251005\Desktop\lab09material\lab09\processes\bin\Debug\processes.pdb
 C:\Users\UO251005\Desktop\lab09material\lab09\processes\obj\Debug\processes.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session9\lab09\processes\bin\Debug\processes.exe.config
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session9\lab09\processes\obj\Debug\processes.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session9\lab09\processes\obj\Debug\processes.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session9\lab09\processes\bin\Debug\processes.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session9\lab09\processes\bin\Debug\processes.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session9\lab09\processes\obj\Debug\processes.csprojResolveAssemblyReference.cache

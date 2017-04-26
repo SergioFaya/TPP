@@ -26,8 +26,8 @@ namespace PLINQ
         
         static double VectorModulusLinq(IEnumerable<short> vector)
         {
-            int value = 0;
-            double acc = vector.AsParallel().Aggregate(value,(v, a) => v += a*a );
+            double value = 0;
+            double acc = vector.Aggregate(value,(v, a) => v += a*a );
             return Math.Sqrt(acc);
         }
 
@@ -37,8 +37,8 @@ namespace PLINQ
 
         static double VectorModulusPLinq(IEnumerable<short> vector)
         {
-            int value = 0;
-            double acc = vector.Aggregate(value, (v, a) => v += a * a).;
+            double value = 0;
+            double acc = vector.AsParallel().Aggregate(value, (v, a) => v += a * a);
             return Math.Sqrt(acc);
         }
 

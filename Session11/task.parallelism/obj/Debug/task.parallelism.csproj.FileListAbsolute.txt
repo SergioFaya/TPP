@@ -10,3 +10,6 @@ C:\Users\Raúl\Desktop\PTP12\lab11material\lab11\task.parallelism\obj\Debug\task
 C:\Users\UO251005\Desktop\lab11material\lab11\task.parallelism\bin\Debug\task.parallelism.exe.config
 C:\Users\UO251005\Desktop\lab11material\lab11\task.parallelism\obj\Debug\task.parallelism.exe
 C:\Users\UO251005\Desktop\lab11material\lab11\task.parallelism\obj\Debug\task.parallelism.pdb
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session11\task.parallelism\bin\Debug\task.parallelism.exe.config
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session11\task.parallelism\obj\Debug\task.parallelism.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session11\task.parallelism\obj\Debug\task.parallelism.pdb

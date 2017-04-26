@@ -32,7 +32,7 @@ namespace Exercise
             {
                 for (int j = 0; j < vector2.Length; j++)
                 {
-                    if(vector1[i] == vector2[i])
+                    if (vector1[i] == vector2[i]) ;
                 }
             } 
             return result;

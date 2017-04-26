@@ -14,3 +14,6 @@ C:\Users\UO251005\Desktop\lab09material\lab09\context.switching\bin\Debug\contex
 C:\Users\UO251005\Desktop\lab09material\lab09\context.switching\bin\Debug\vector.modulus.exe
 C:\Users\UO251005\Desktop\lab09material\lab09\context.switching\bin\Debug\vector.modulus.pdb
 C:\Users\UO251005\Desktop\lab09material\lab09\context.switching\obj\Debug\context.switching.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session9\lab09\context.switching\bin\Debug\context.switching.exe.config
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session9\lab09\context.switching\obj\Debug\context.switching.exe
+C:\Users\Sergio\Desktop\GIT Asignaturas\TPP\Session9\lab09\context.switching\obj\Debug\context.switching.pdb
